@@ -1,0 +1,3 @@
+[submodule "ssh-cert-proto"]
+	path = ssh-cert-proto
+	url = https://github.com/jasonrig/ssh-cert-proto.git
